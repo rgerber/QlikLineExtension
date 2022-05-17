@@ -17,4 +17,7 @@ Have fun with the extension.
 ![alt text](https://github.com/rgerber/qlikblog.ch-line/blob/main/qlikblog.ch_LineExtension_properties.png?raw=true)
 
 
+For more Information you can also look at https://www.qlikblog.ch/94-line-widget-ersatz-extension, this is in german only blog. 
+But it is a very easy extension and it dosm't use some explorations.
+
 
