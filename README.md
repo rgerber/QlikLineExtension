@@ -6,13 +6,13 @@ So I create a extension that shows a line (horizontal, vertikal) with some prope
 
 Try it out and have fun with the extension.
 
-The Extension look like the picture below
-
+![The Extension look like the picture below]
 ![alt text](https://github.com/rgerber/qlikblog.ch-line/blob/main/qlikblog.ch_LineExtension.png?raw=true)
 
 
-Thes are the properties of the extension
-
+![These are the properties of the extension]
 ![alt text](https://github.com/rgerber/qlikblog.ch-line/blob/main/qlikblog.ch_LineExtension_properties.png?raw=true)
+
+
 
 Have fun with te extension.
