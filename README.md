@@ -18,6 +18,6 @@ Have fun with the extension.
 
 
 For more Information you can also look at https://www.qlikblog.ch/94-line-widget-ersatz-extension, this is in german only blog. 
-But it is a very easy extension and it dosm't use some explorations.
+But it is a very easy extension and it dosm't use some explanations.
 
 
