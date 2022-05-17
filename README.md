@@ -1,12 +1,15 @@
 # qlikblog.ch-line Extension
 
 Qlik Sense Line Extension as a real extension, not a widget only.
+
 After Qlik Sense Version Februar 2022 the widgets doesn't work anymore. 
-So I create a extension that shows a line (horizontal, vertikal) with some propertys.
+So I create a extension that shows a horizontal or a vertical line with some nice propertys.
 
 This line would help to create a nice and clear layout that help you to separate some charts from others.
-It is a littel bit old school, but sometimes it make more sense to have this. So you must not rebuild all the apps with a new layout.
-Have fun with the extension.
+I use the Line Extension a lot to separate the filters from the rest of the charts.
+It is a littel bit old school, but sometimes it make more sense to make this than others. 
+
+When you use the line widget, you must not relayout all apps, use the extension and it looks the version with the widget.
 
 
 # A short look to the extension
