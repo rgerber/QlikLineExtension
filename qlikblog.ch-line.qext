@@ -1,0 +1,13 @@
+{
+	"name" : "Horizontal-/ Vertikal Line",
+	"description" : "Horizontal or vertical line",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0.1",
+	"author" : "Renato Gerber | Qlikblog.ch",
+	"homepage" : "https://www.qlikblog.ch/94-line-widget-ersatz-extension",
+	"keywords" : "qlik-sense, visualization",
+	"license" : "",
+	"preview" : "UseCase.png",
+    "dependencies" : { "qlik-sense" : ">=3.0.x" }
+}

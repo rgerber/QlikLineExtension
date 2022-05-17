@@ -1,0 +1,14 @@
+.qlikblog-line-table-vertical {
+  height: 100%;
+  margin-left: 50%;
+}
+
+.qlikblog-line-table-horizontal {
+  width: 100%;
+}
+
+.qlikblog-line-div {
+  width: 100%;
+  height: 100%;
+  background: white;
+}
